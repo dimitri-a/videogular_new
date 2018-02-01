@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="13be25b3-e782-483c-a0bd-657e8d205a14" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/bower_components/angular-sanitize/.bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/angular-sanitize/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/angular-sanitize/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/angular-sanitize/angular-sanitize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/angular-sanitize/angular-sanitize.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/angular-sanitize/angular-sanitize.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/angular-sanitize/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/angular-sanitize/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/angular-sanitize/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/angular/.bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/angular/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/angular/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/angular/angular-csp.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/angular/angular.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/angular/angular.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/angular/angular.min.js.gzip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/angular/angular.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/angular/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/angular/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/angular/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-buffering/.bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-buffering/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-buffering/Gruntfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-buffering/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-buffering/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-buffering/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-buffering/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-buffering/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-buffering/vg-buffering.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-buffering/vg-buffering.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-controls/.bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-controls/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-controls/Gruntfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-controls/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-controls/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-controls/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-controls/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-controls/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-controls/vg-controls.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-controls/vg-controls.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-ima-ads/.bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-ima-ads/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-ima-ads/Gruntfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-ima-ads/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-ima-ads/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-ima-ads/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-ima-ads/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-ima-ads/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-ima-ads/vg-ima-ads.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-ima-ads/vg-ima-ads.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-overlay-play/.bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-overlay-play/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-overlay-play/Gruntfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-overlay-play/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-overlay-play/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-overlay-play/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-overlay-play/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-overlay-play/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-overlay-play/vg-overlay-play.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-overlay-play/vg-overlay-play.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-poster/.bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-poster/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-poster/Gruntfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-poster/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-poster/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-poster/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-poster/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-poster/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-poster/vg-poster.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-poster/vg-poster.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-themes-default/.bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-themes-default/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-themes-default/Gruntfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-themes-default/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-themes-default/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-themes-default/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-themes-default/fonts/videogular.dev.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-themes-default/fonts/videogular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-themes-default/fonts/videogular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-themes-default/fonts/videogular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-themes-default/fonts/videogular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-themes-default/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-themes-default/videogular.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-themes-default/videogular.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular-themes-default/videogular.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular/.bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular/Gruntfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular/videogular.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bower_components/videogular/videogular.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="466">
+              <caret line="69" column="51" selection-start-line="69" selection-start-column="51" selection-end-line="69" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="33" column="6" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="552" />
+    <option name="y" value="-1080" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="videogular_scratch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="videogular_scratch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="videogular_scratch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="videogular_scratch" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13be25b3-e782-483c-a0bd-657e8d205a14" name="Default" comment="" />
+      <created>1517477432538</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1517477432538</updated>
+      <workItem from="1517477433809" duration="688000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="688000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="552" y="-1080" width="1920" height="1080" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24960506" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.4568024" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="6" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="69" column="51" selection-start-line="69" selection-start-column="51" selection-end-line="69" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
